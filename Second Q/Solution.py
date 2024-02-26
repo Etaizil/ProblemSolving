@@ -1,4 +1,3 @@
-
 def removeAnElement(nums: list[int], val: int) -> int:
         retCounter = 0
         i = 0
